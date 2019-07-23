@@ -1,0 +1,10 @@
+Test dependency
+npm install --save -dev jasmine
+node node_modules/jasmine/bin/jasmine init
+in spec folder create index.spec.js
+
+Functions
+function(){} is same as ()=>{}
+
+in javascript reassigning a value in the scope of a function reassigns the value outside
+pointers are passed into the function
