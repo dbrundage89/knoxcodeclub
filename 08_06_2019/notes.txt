@@ -1,0 +1,25 @@
+Javascript types
+array, string, number, function, object
+
+in javascript integer is called a number value
+int 5 is a number
+float 5.0 is a number
+Number("5") returns a number
+
+in javascript object is a keyValue store
+
+in node you can do .[tab][tab] and it will return all possible functions
+
+calling a function on undefined returns a type error
+
+loop
+for(let i=0; i<users.length; i++){}
+    or
+users.forEach(function(){}) ///// use anonymous functions inline with forEach
+    or
+users.forEach((u) => {console.log.name})
+    or
+users.forEach(u => console.log(u.name))
+
+users.map(function(){}) // and returns a new array
+users.map(u => u.name) // returns array of names
