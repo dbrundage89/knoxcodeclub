@@ -1,0 +1,19 @@
+https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/toy_app
+chapter 2.1
+
+ruby migration
+
+rake commands
+
+rails c # opens rails console
+    user.all
+    user.find(1)
+
+rails db # sqlite db
+
+api.rubyonrails.org
+
+rails new members
+rails _5.1.6_ new members # specific version of  rails
+
+rails generate scaffold User name:string email:string
